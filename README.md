@@ -81,7 +81,9 @@ Diversity & Inclusion Reports – Gender, race, and location-based analysis.
 Attrition Prediction – Machine learning to predict employee turnover.
 
 🖼 Workflow Diagram
-Refer to the included Visio diagram (HR_Workflow.vsdx) for a visual representation of how HR processes interact with dataset elements, including:
+![HR Workflow Diagram](https://raw.githubusercontent.com/johndoe/hr-dashboard/main/assets/hr_workflow.png)
+
+a visual representation of how HR processes interact with dataset elements, including:
 
 Recruitment → Onboarding → Attendance → Performance → Training → Exit
 
