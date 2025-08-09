@@ -35,34 +35,37 @@ Structured for easy integration with SQL, Excel dashboards, Power BI, Tableau, a
 
 Suitable for machine learning models like churn prediction, performance forecasting, and shift optimization.
 
-📑 Column Descriptions
-Column Name	Description
-Employee ID	Unique identifier for each employee
-First Name	Employee’s first name
-Last Name	Employee’s last name
-Start Date	Date employee joined the organization
-Exit Date	Date employee left (if applicable)
-Title	Job title
-Supervisor	Direct manager’s name
-Email	Work email address
-Business Unit	Department or division
-Employee Status	Active, On Leave, or Terminated
-Employee Type	Full-time, Part-time, Contract
-Pay Zone	Salary range or pay band
-Employee Classification Type	Exempt or Non-Exempt
-Termination Type	Resignation, Layoff, Retirement
-Termination Description	Additional details for termination
-Department Type	Department category
-Division Description	Division name or description
-DOB	Date of birth
-State	State or region
-Job Function	Primary role description
-Gender	M, F, N (Non-binary)
-Location	Office location code
-Race/Ethnicity	Self-reported background
-Marital Status	Single, Married, Divorced
-Performance Score	Excellent, Satisfactory, Needs Improvement
-Current Employee Rating	Latest performance evaluation score
+## 📑 Column Descriptions
+
+| Column Name                   | Description |
+|--------------------------------|-------------|
+| Employee ID                    | Unique identifier for each employee |
+| First Name                     | Employee’s first name |
+| Last Name                      | Employee’s last name |
+| Start Date                     | Date employee joined the organization |
+| Exit Date                      | Date employee left (if applicable) |
+| Title                          | Job title |
+| Supervisor                     | Direct manager’s name |
+| Email                          | Work email address |
+| Business Unit                  | Department or division |
+| Employee Status                | Active, On Leave, or Terminated |
+| Employee Type                   | Full-time, Part-time, Contract |
+| Pay Zone                       | Salary range or pay band |
+| Employee Classification Type   | Exempt or Non-Exempt |
+| Termination Type                | Resignation, Layoff, Retirement |
+| Termination Description        | Additional details for termination |
+| Department Type                 | Department category |
+| Division Description           | Division name or description |
+| DOB                            | Date of birth |
+| State                          | State or region |
+| Job Function                   | Primary role description |
+| Gender                         | M, F, N (Non-binary) |
+| Location                       | Office location code |
+| Race/Ethnicity                 | Self-reported background |
+| Marital Status                 | Single, Married, Divorced |
+| Performance Score              | Excellent, Satisfactory, Needs Improvement |
+| Current Employee Rating        | Latest performance evaluation score |
+
 
 📊 Potential Use Cases
 Workforce Productivity Analysis – Identify top performers, performance trends, and improvement areas.
